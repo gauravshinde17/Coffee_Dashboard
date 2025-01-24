@@ -8,7 +8,9 @@
 This dashboard has been designed to present key insights about the operations of three stores within our coffee chain. It serves as a valuable tool to facilitate discussions with the regional manager and other higher-ups. The primary goal is to optimize store operations, improve efficiency, and drive better performance across all locations.
 
 # ⚙️ TOOLS USED
+[<img src="microsoftexcelicon.webp" alt="Excel Logo" width="70" height="70">](microsoftexcelicon.webp) &nbsp;
 
+ Microsoft Excel
 
 # 🚀 PROJECT GOALS
 - Maximize Revenue Growth
@@ -37,7 +39,7 @@ Key Insights from Project
 
 - Consistency Across Stores: These trends remain consistent across all locations, indicating uniform customer preferences and behavior patterns.
 
-# DATA STORY
+# 🧠 DATA STORY
 
 Additional Insights and Recommendations
 
@@ -50,7 +52,7 @@ Recommendations
 - Remove low-selling items from displays at Hell's Kitchen and make them available on order only.
 - Optimize inventory for low-performing products to reduce operational costs.
 
-# DASHBOARD
+# 📊 DASHBOARD
 ![](Coffeesalesdashboard.png)
 
 
