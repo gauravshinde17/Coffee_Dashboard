@@ -51,7 +51,7 @@ Recommendations
 - Optimize inventory for low-performing products to reduce operational costs.
 
 # DASHBOARD
-![](Coffee sales dashboard.png)
+![](Coffeesalesdashboard.png)
 
 
 
